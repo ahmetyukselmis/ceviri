@@ -1,5 +1,5 @@
 <p align="center">
-<img src="levlogo.png" width="50%"></img>
+<img src="https://github.com/leviathan-framework/leviathan/raw/master/levlogo.png" width="50%"></img>
 </p>
 <p align="center">
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-2.7-yellow.svg"></a> <img src="https://img.shields.io/badge/license-GPLv3-red.svg"> <a href="https://www.blackhat.com/us-17/arsenal.html#leviathan-framework"><img src="https://img.shields.io/badge/Blackhat%20USA%2017-Arsenal-blue.svg"></a> <a href="https://www.defcon.org/html/defcon-25/dc-25-demolabs.html"><img src="https://img.shields.io/badge/DEF%20CON%2025-Demo%20Labs-red.svg"></a>
