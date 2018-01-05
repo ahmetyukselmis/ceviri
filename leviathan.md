@@ -111,12 +111,12 @@ You can get basic usage information inside the menus. For detailed usage manual,
 
 ## Ekran Görüntüleri
 
-<img src="https://github.com/leviathan-framework/leviathan/tree/master/screenshots/levsc1.png" width="32%"></img> 
-<img src="https://github.com/leviathan-framework/leviathan/tree/master/screenshots/levsc2.png" width="32%"></img> 
-<img src="https://github.com/leviathan-framework/leviathan/tree/master/screenshots/levsc3.png" width="32%"></img>
-<img src="https://github.com/leviathan-framework/leviathan/tree/master/screenshots/levsc4.png" width="32%"></img>
-<img src="https://github.com/leviathan-framework/leviathan/tree/master/screenshots/levsc5.png" width="32%"></img>
-<img src="https://github.com/leviathan-framework/leviathan/tree/master/screenshots/levsc6.png" width="32%"></img>
+<img src="https://github.com/leviathan-framework/leviathan/raw/master/screenshots/levsc1.png" width="32%"></img> 
+<img src="https://github.com/leviathan-framework/leviathan/raw/master/screenshots/levsc2.png" width="32%"></img> 
+<img src="https://github.com/leviathan-framework/leviathan/raw/master/screenshots/levsc3.png" width="32%"></img>
+<img src="https://github.com/leviathan-framework/leviathan/raw/master/screenshots/levsc4.png" width="32%"></img>
+<img src="https://github.com/leviathan-framework/leviathan/raw/master/screenshots/levsc5.png" width="32%"></img>
+<img src="https://github.com/leviathan-framework/leviathan/raw/master/screenshots/levsc6.png" width="32%"></img>
 
 ## Geliştiriciler
  Utku Sen ve Ozge Barbaros tarafından geliştirilmiştir.
